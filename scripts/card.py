@@ -4,8 +4,8 @@ from dataclasses import dataclass
 from datetime import date
 from xml.sax.saxutils import escape
 
-LINE_WIDTH = 64
-STATS_HALF_WIDTH = 34
+LINE_WIDTH = 80
+STATS_HALF_WIDTH = 42
 STATS_SEPARATOR = " | "
 FONT_SIZE = 16
 LINE_HEIGHT = 20
@@ -84,7 +84,7 @@ def render_svg(lines: list[Line], theme: Theme) -> str:
     width = round(PADDING * 2 + LINE_WIDTH * CHAR_WIDTH)
     height = PADDING * 2 + LINE_HEIGHT * len(lines)
     body = "\n".join(render_line(line, index) for index, line in enumerate(lines))
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="{FONT_SIZE}px">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="{FONT_SIZE}px">
 <style>
 .text {{ fill: {theme.text}; }}
 .key {{ fill: {theme.key}; }}
