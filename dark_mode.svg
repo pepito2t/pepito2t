@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="675" height="480" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16px">
+<style>
+.text { fill: #c9d1d9; }
+.key { fill: #ffa657; }
+.value { fill: #a5d6ff; }
+.dots { fill: #616e7f; }
+.added { fill: #3fb950; }
+.removed { fill: #f85149; }
+</style>
+<rect width="675" height="480" rx="12" fill="#161b22"/>
+<text x="20" y="20" xml:space="preserve" class="text">
+<tspan x="20" dy="16"><tspan class="text">thomas@tmbk </tspan><tspan class="dots">----------------------------------------------------</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">OS:</tspan><tspan class="dots"> ......................................... </tspan><tspan class="value">macOS 27, iOS 27</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dots"> ............................ </tspan><tspan class="value">4 years, 6 months, 3 days</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Host:</tspan><tspan class="dots"> ................................................ </tspan><tspan class="value">socraft</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Kernel:</tspan><tspan class="dots"> ................................. </tspan><tspan class="value">Full-stack Developer</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">IDE:</tspan><tspan class="dots"> ..................................... </tspan><tspan class="value">Zed, Ghostty + tmux</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="text"> </tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Languages.Programming:</tspan><tspan class="dots"> ............. </tspan><tspan class="value">TypeScript, Python, Swift</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Languages.Computer:</tspan><tspan class="dots"> .................... </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Languages.Real:</tspan><tspan class="dots"> .............................. </tspan><tspan class="value">French, English</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="text"> </tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Hobbies.Software:</tspan><tspan class="dots"> .................. </tspan><tspan class="value">Computer vision, Dotfiles</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Hobbies.Hardware:</tspan><tspan class="dots"> .......................... </tspan><tspan class="value">FPV drones, ESP32</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="text"> </tspan></tspan>
+<tspan x="20" dy="20"><tspan class="text">- Contact </tspan><tspan class="dots">------------------------------------------------------</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Email.Personal:</tspan><tspan class="dots"> ............................... </tspan><tspan class="value">thomas@tmbk.ch</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Website:</tspan><tspan class="dots"> ............................................. </tspan><tspan class="value">tmbk.ch</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="text"> </tspan></tspan>
+<tspan x="20" dy="20"><tspan class="text">- GitHub Stats </tspan><tspan class="dots">-------------------------------------------------</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Repos:</tspan><tspan class="dots"> .... </tspan><tspan class="value">11</tspan><tspan class="text"> {Contributed: </tspan><tspan class="value">15</tspan><tspan class="text">}</tspan><tspan class="text"> | </tspan><tspan class="dots"></tspan><tspan class="key">Stars:</tspan><tspan class="dots"> .................. </tspan><tspan class="value">2</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Commits:</tspan><tspan class="dots"> ................. </tspan><tspan class="value">4,050</tspan><tspan class="text"> | </tspan><tspan class="dots"></tspan><tspan class="key">Followers:</tspan><tspan class="dots"> ............. </tspan><tspan class="value">15</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Lines of Code on GitHub:</tspan><tspan class="dots"> ..... </tspan><tspan class="value">208,937</tspan><tspan class="text"> ( </tspan><tspan class="added">233,931++</tspan><tspan class="text">, </tspan><tspan class="removed">24,994--</tspan><tspan class="text"> )</tspan></tspan>
+</text>
+</svg>

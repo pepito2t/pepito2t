@@ -1,0 +1,39 @@
+{
+  "login": "pepito2t",
+  "header": "thomas@tmbk",
+  "uptime_since": "2022-04-08",
+  "sections": [
+    {
+      "title": null,
+      "rows": [
+        ["OS", "macOS 27, iOS 27"],
+        ["Uptime", "{uptime}"],
+        ["Host", "socraft"],
+        ["Kernel", "Full-stack Developer"],
+        ["IDE", "Zed, Ghostty + tmux"]
+      ]
+    },
+    {
+      "title": null,
+      "rows": [
+        ["Languages.Programming", "TypeScript, Python, Swift"],
+        ["Languages.Computer", "HTML, CSS, JSON, YAML"],
+        ["Languages.Real", "French, English"]
+      ]
+    },
+    {
+      "title": null,
+      "rows": [
+        ["Hobbies.Software", "Computer vision, Dotfiles"],
+        ["Hobbies.Hardware", "FPV drones, ESP32"]
+      ]
+    },
+    {
+      "title": "Contact",
+      "rows": [
+        ["Email.Personal", "thomas@tmbk.ch"],
+        ["Website", "tmbk.ch"]
+      ]
+    }
+  ]
+}
