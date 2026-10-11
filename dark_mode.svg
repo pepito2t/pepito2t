@@ -11,7 +11,7 @@
 <text x="20" y="20" xml:space="preserve" class="text">
 <tspan x="20" dy="16"><tspan class="text">thomas@tmbk </tspan><tspan class="dots">--------------------------------------------------------------------</tspan></tspan>
 <tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">OS:</tspan><tspan class="dots"> ......................................................... </tspan><tspan class="value">macOS 27, iOS 27</tspan></tspan>
-<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dots"> ............................................ </tspan><tspan class="value">4 years, 6 months, 2 days</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dots"> ............................................ </tspan><tspan class="value">4 years, 6 months, 3 days</tspan></tspan>
 <tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Host:</tspan><tspan class="dots"> ................................................................ </tspan><tspan class="value">socraft</tspan></tspan>
 <tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Kernel:</tspan><tspan class="dots"> ................................................. </tspan><tspan class="value">Full-stack Developer</tspan></tspan>
 <tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">IDE:</tspan><tspan class="dots"> ..................................................... </tspan><tspan class="value">Zed, Ghostty + tmux</tspan></tspan>
@@ -20,8 +20,8 @@
 <tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Languages.Computer:</tspan><tspan class="dots"> .................................... </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan></tspan>
 <tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Languages.Real:</tspan><tspan class="dots"> .............................................. </tspan><tspan class="value">French, English</tspan></tspan>
 <tspan x="20" dy="20"><tspan class="text"> </tspan></tspan>
-<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Hobbies.Software:</tspan><tspan class="dots"> .................................. </tspan><tspan class="value">Computer vision, Dotfiles</tspan></tspan>
-<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Hobbies.Hardware:</tspan><tspan class="dots"> .......................................... </tspan><tspan class="value">FPV drones, ESP32</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Hobbies.Software:</tspan><tspan class="dots"> ........................... </tspan><tspan class="value">Computer vision, Home automation</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Hobbies.Hardware:</tspan><tspan class="dots"> .................................... </tspan><tspan class="value">FPV drones, Electronics</tspan></tspan>
 <tspan x="20" dy="20"><tspan class="text"> </tspan></tspan>
 <tspan x="20" dy="20"><tspan class="text">- Contact </tspan><tspan class="dots">----------------------------------------------------------------------</tspan></tspan>
 <tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Email.Personal:</tspan><tspan class="dots"> ............................................... </tspan><tspan class="value">thomas@tmbk.ch</tspan></tspan>
@@ -29,7 +29,7 @@
 <tspan x="20" dy="20"><tspan class="text"> </tspan></tspan>
 <tspan x="20" dy="20"><tspan class="text">- GitHub Stats </tspan><tspan class="dots">-----------------------------------------------------------------</tspan></tspan>
 <tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Repos:</tspan><tspan class="dots"> .............. </tspan><tspan class="value">7</tspan><tspan class="text"> {Contributed: </tspan><tspan class="value">9</tspan><tspan class="text">}</tspan><tspan class="text"> | </tspan><tspan class="dots"></tspan><tspan class="key">Stars:</tspan><tspan class="dots"> .......................... </tspan><tspan class="value">2</tspan></tspan>
-<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Commits:</tspan><tspan class="dots"> ......................... </tspan><tspan class="value">4,053</tspan><tspan class="text"> | </tspan><tspan class="dots"></tspan><tspan class="key">Followers:</tspan><tspan class="dots"> ..................... </tspan><tspan class="value">15</tspan></tspan>
-<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Lines of Code on GitHub:</tspan><tspan class="dots"> ...................... </tspan><tspan class="value">88,396</tspan><tspan class="text"> ( </tspan><tspan class="added">102,682++</tspan><tspan class="text">, </tspan><tspan class="removed">14,286--</tspan><tspan class="text"> )</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Commits:</tspan><tspan class="dots"> ......................... </tspan><tspan class="value">4,055</tspan><tspan class="text"> | </tspan><tspan class="dots"></tspan><tspan class="key">Followers:</tspan><tspan class="dots"> ..................... </tspan><tspan class="value">15</tspan></tspan>
+<tspan x="20" dy="20"><tspan class="dots">. </tspan><tspan class="key">Lines of Code on GitHub:</tspan><tspan class="dots"> ...................... </tspan><tspan class="value">88,951</tspan><tspan class="text"> ( </tspan><tspan class="added">103,283++</tspan><tspan class="text">, </tspan><tspan class="removed">14,332--</tspan><tspan class="text"> )</tspan></tspan>
 </text>
 </svg>
