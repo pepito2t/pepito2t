@@ -1,6 +1,6 @@
 {
   "login": "pepito2t",
-  "header": "thomas@tmbk",
+  "header": "pepito2t",
   "uptime_since": "2022-04-08",
   "sections": [
     {
@@ -24,7 +24,7 @@
     {
       "title": null,
       "rows": [
-        ["Hobbies.Software", "Computer vision, Home automation"],
+        ["Hobbies.Software", "Computer vision, Dev tooling"],
         ["Hobbies.Hardware", "FPV drones, Electronics"]
       ]
     },
